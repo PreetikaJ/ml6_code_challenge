@@ -1,0 +1,6 @@
+setup.py
+my_project_practice.egg-info/PKG-INFO
+my_project_practice.egg-info/SOURCES.txt
+my_project_practice.egg-info/dependency_links.txt
+my_project_practice.egg-info/requires.txt
+my_project_practice.egg-info/top_level.txt
